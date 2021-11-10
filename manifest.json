@@ -1,0 +1,7 @@
+{
+    "name": "Progress Checker™",
+    "short_name" : "DSCDAVIET",
+    "start_url": "index.html?utm_source=homescreen",
+    "scope" : "./",
+    "display": "standalone"
+}
